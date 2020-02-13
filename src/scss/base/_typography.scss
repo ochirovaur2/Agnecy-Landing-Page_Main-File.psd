@@ -1,0 +1,32 @@
+.heading-primary{
+
+	font-size: 6rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	@media only screen and(max-width: $bp-medium){
+      font-size: 3rem;
+
+    }
+}
+.heading-secondary{
+	font-size: 4rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 4px;
+	padding-bottom: 2rem;
+}
+
+.heading-tertiary{
+	font-size: 2.4rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 0.48px;
+}
+.paragraph{
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0.36px;
+	opacity: 0.7;
+	
+}
+
